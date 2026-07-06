@@ -1,0 +1,7 @@
+-- This module is the root of the BlochBeilinsonConjecturesCanonicalLaneLean Lean proof package.
+import BlochBeilinsonConjecturesCanonicalLaneLean.Basic
+import BlochBeilinsonConjecturesCanonicalLaneLean.SourcePackage
+import BlochBeilinsonConjecturesCanonicalLaneLean.SourceDependencies
+import BlochBeilinsonConjecturesCanonicalLaneLean.Formalization
+import BlochBeilinsonConjecturesCanonicalLaneLean.ReviewerBridge
+import BlochBeilinsonConjecturesCanonicalLaneLean.TheoremStatement
